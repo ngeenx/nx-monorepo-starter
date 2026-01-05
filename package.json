@@ -7,10 +7,12 @@
   "devDependencies": {
     "@angular-devkit/core": "~21.0.0",
     "@nx/angular": "22.3.3",
+    "@nx/eslint": "22.3.3",
     "@nx/js": "22.3.3",
     "@nx/react": "22.3.3",
     "@nx/vue": "22.3.3",
     "@nx/workspace": "22.3.3",
+    "eslint": "~8.57.0",
     "nx": "22.3.3"
   },
   "dependencies": {
