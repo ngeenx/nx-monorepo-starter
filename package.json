@@ -7,23 +7,23 @@
   },
   "private": true,
   "devDependencies": {
-    "@angular-devkit/core": "~21.2.0",
-    "@commitlint/cli": "^20.4.2",
-    "@commitlint/config-conventional": "^20.4.2",
+    "@angular-devkit/core": "~21.2.6",
+    "@commitlint/cli": "^20.5.0",
+    "@commitlint/config-conventional": "^20.5.0",
     "@commitlint/config-nx-scopes": "^20.4.0",
-    "@nx/angular": "22.5.3",
-    "@nx/eslint": "22.5.3",
-    "@nx/js": "22.5.3",
-    "@nx/react": "22.5.3",
-    "@nx/vue": "22.5.3",
-    "@nx/workspace": "22.5.3",
-    "eslint": "~10.0.2",
+    "@nx/angular": "22.5.4",
+    "@nx/eslint": "22.5.4",
+    "@nx/js": "22.5.4",
+    "@nx/react": "22.5.4",
+    "@nx/vue": "22.5.4",
+    "@nx/workspace": "22.5.4",
+    "eslint": "~10.1.0",
     "husky": "^9.1.7",
-    "nx": "22.5.3"
+    "nx": "22.6.4"
   },
   "dependencies": {
     "react": "^19.2.4",
-    "react-dom": "^19.2.3",
-    "vue": "^3.5.27"
+    "react-dom": "^19.2.4",
+    "vue": "^3.5.31"
   }
 }
